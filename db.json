@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id":"23",
+            "firstName":"amit",
+            "age":20
+        },
+        {
+            "id":"24",
+            "firstName":"ansari",
+            "age":30
+        },
+        {
+            "id":"25",
+            "firstName":"sudheer",
+            "age":40
+        }
+    ]
+}
